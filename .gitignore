@@ -1,0 +1,15 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Javascript Stuff
+node_modules/
+
+# Java Stuff
+*.class
+
+# Packaged Files
+*.jar
+*.zip
+*.tar.gz
