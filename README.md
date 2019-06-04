@@ -10,16 +10,19 @@ Been waiting to do this for quite some time. Bored after work so starting to bra
 	- Would probably be a longer project...
 	- Full Stack project here, would require one of us to get an AWS instance (or use AWS Lambda, pretty genious stuff tbh)
 	- More JS and HTML/CSS/SCSS than Python/Java
+	- I second this project (Pratyay) I would like to work on my JS and backend skills. 
 
 - WUXC Pokemon
 	- Idek how we would do this, would probably have to go through Unity or something (C# I believe?)
-	- Graphics would be the hardest thing for us to do, not sure if any of us have any experience with animations/graphics but I (Zac) certainly don't
+	- Graphics would be the hardest thing for us to do, not sure if any of us have any experience with animations/graphics but I (Zac, Pratyay) certainly don't
 	- Also a longer project, lots of paths that it could take
+	- Pratyay: would be a huge learning opportunity but a lot of it would be learning and not doing so might be long and slow
 
 - 131 Projects
 	- Would be interesting to convert everything (or a lot of it) into Python or some other language. 
 	- Wouldn't really have any payoff other than the possibility that it could be used if people ever wanted something to practice on/with
 	- Cytron has already dumped a gross amount of time into Java packages/projects for the students, so I'm not sure how long it would take to replicate things (StdDraw, for example)
+	- Pratyay: This would be interesting and a good way to improve Python. 
 
 - NotARobot / LogARun Data
 	- Would be hella willing to open up the source code to what I've built so far
