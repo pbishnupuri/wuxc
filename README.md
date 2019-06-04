@@ -11,6 +11,9 @@ Been waiting to do this for quite some time. Bored after work so starting to bra
 	- Full Stack project here, would require one of us to get an AWS instance (or use AWS Lambda, pretty genious stuff tbh)
 	- More JS and HTML/CSS/SCSS than Python/Java
 	- I second this project (Pratyay) I would like to work on my JS and backend skills. 
+		- Some ideas that we can add to logarun
+			- customized workouts (search by workout name)
+			- 
 
 - WUXC Pokemon
 	- Idek how we would do this, would probably have to go through Unity or something (C# I believe?)
