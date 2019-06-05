@@ -36,7 +36,7 @@ MongoDB is free, but space is VERY limited on there. MySQL and old fashion sql s
 
 Not really necessary but it is nice to have something that would help us track what needs to be done/things that people could work on. We use PivotalTracker at work, but we would have to pay if we all want to hop on there (plus it can be a little overwhelming for something that is less serious). GitHub projects is pretty well integrated and would allow us to tie commits/pull requests to specific issues. That's definitely my choice, or at least what I think would fit this project in its current state.
 
-PivotalTracker allows for 3 free users. Azure's Agile management team allows for 5 free. Jira sucks.
+PivotalTracker allows for 3 free users. Azure's Agile management tool allows for 5 free. Jira sucks.
 
 ## Example
 
