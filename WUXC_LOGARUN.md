@@ -32,7 +32,7 @@ Prat: AWS or Microsoft Azure offer some free cloud services
 
 Loads of ways we could approach this portion. MongoDB has some pretty decent infrastructure for larger data sets (assuming this ends up being used and we need to start storing logs somewhere). Firebase through Google is another option, but I'm not sure if it scales super well. We could also look into something from AWS (DynamoDB through AWS, S3) or other large-scale data storage options (Oracle's MySQL, PostgreSQL).
 
-MongoDB is free, but space is VERY limited on there. MySQL and old fashion sql servers are always possible. How good is DynamoDB? -Does it offer more space than MongoDB for free?
+Prat: MongoDB is free, but space is VERY limited on there. MySQL and old fashion sql servers are always possible. How good is DynamoDB? -Does it offer more space than MongoDB for free?
 
 Nate: Currently working with mysql for work lol. seems old.
 
@@ -40,7 +40,7 @@ Nate: Currently working with mysql for work lol. seems old.
 
 Not really necessary but it is nice to have something that would help us track what needs to be done/things that people could work on. We use PivotalTracker at work, but we would have to pay if we all want to hop on there (plus it can be a little overwhelming for something that is less serious). GitHub projects is pretty well integrated and would allow us to tie commits/pull requests to specific issues. That's definitely my choice, or at least what I think would fit this project in its current state.
 
-PivotalTracker allows for 3 free users. Azure's Agile management tool allows for 5 free. Jira sucks.
+Prat: PivotalTracker allows for 3 free users. Azure's Agile management tool allows for 5 free. Jira sucks.
 
 Nate: lol im worthless on here. but wanna try and help.
 
