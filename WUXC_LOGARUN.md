@@ -82,7 +82,7 @@ So the basic features of the logging app will incorporate a lot of logarun style
     - public teams (maybe?) 
     - leaving/kicking from a team
     - transfer of ownership of team
-  - Emoji's for posts (Lia's request)
+  - ability to add eomjis in log description (Lia's request)
   - Leaderboard for weekly mileage
   - tag user profiles in description and comments, giving notifications to tagged user
     - i don't know how useful this would be, but just throwing ideas out there
