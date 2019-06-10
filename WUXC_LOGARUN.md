@@ -91,6 +91,7 @@ So the basic features of the logging app will incorporate a lot of logarun style
   - Export data from user profile of runs and average paces by day.
   - Export data from TEAM of runs and average paces
   - Define less than 5 emojis to classify runs  (can't have too many ways to classify runs)
+  - ability to flag personal run as pain sensitive. Shows up as red on your calender. Easier to find runs where you felt exceptionally bad or something hurt. 
     
   
   
