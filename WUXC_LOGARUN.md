@@ -67,6 +67,7 @@ So the basic features of the logging app will incorporate a lot of logarun style
   - Logging runs
     - calender style
     - title of logs plus description of log
+    - ability to view personal calender and team calendar.
     - mileage, distance, shoes
       - set default shoes
       - retire shoes
