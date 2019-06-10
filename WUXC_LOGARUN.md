@@ -55,3 +55,42 @@ My brothers and I are currently building out another project, so I sort of have 
 - *Miscellaneous:* Using AWS Cognito to track user profiles, AWS CloudWatch for error logging
 
 This takes a decent amount of setup to get things running, so it's possible that we could move everything over to there once things get off the ground.
+
+## Features
+
+So the basic features of the logging app will incorporate a lot of logarun style plus blog style posts. 
+  - user profiles
+    - private profiles
+    - public profiles
+  - Logging runs
+    - title of logs plus description of log
+    - mileage, distance, shoes
+      - set default shoes
+      - retire shoes
+      - see mileage on shoes
+    - customized workouts
+      - ability to create workouts and use by name. 
+      - search by workout
+      - workouts should be able to be created by team for individual on team or (lesser idea) by individual for individual.
+        The reason by team for individuals is because the workouts are mainly made by the coach so people can search by workouts and 
+        and see their workouts as well as other who did that workout.
+        For example 4-2-2 is a workout name but the workout can be defined by the individual as like 4x(4-2-2) or 3(4-2-2) + 1600s in-outs. This way different variations of the same workouts aren't defined as different workouts. The only issue I see with this is if an individuals use this tool to log without being on a team. 
+     - ability to comment on runs
+  - Creating/Joining a team
+    - private teams
+    - public teams (maybe?) 
+    - leaving/kicking from a team
+    - transfer of ownership of team
+  - Emoji's for posts (Lia's request)
+  - Leaderboard for weekly mileage
+  - tag user profiles in description and comments, giving notifications to tagged user
+    - i don't know how useful this would be, but just throwing ideas out there
+    
+ ## Dumb Features - Place for dumb ideas that aren't important but can be used once a year
+  - Export data from user profile of runs and average paces by day.
+  - Export data from TEAM of runs and average paces
+  - Define less than 5 emojis to classify runs  (can't have too many ways to classify runs)
+    
+  
+  
+  
