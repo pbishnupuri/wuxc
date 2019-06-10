@@ -1,0 +1,35 @@
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+#output, #output:focus {
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 0px;
+	outline: none;
+	box-shadow: none;
+	overflow-y: scroll;
+	overflow-x: none;
+	display: block;
+	padding: 1px 0px;
+	text-align: left;
+}
+
+#output p, #output p:focus {
+	font-family: monospace;
+	margin-bottom: 0;
+}
+
+#message {
+	width: 345px;
+}
+
+#sendButton {
+	width: 50px;
+}
+
+.hidden {
+	display: none !important;
+}
