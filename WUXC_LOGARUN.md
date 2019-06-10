@@ -63,6 +63,7 @@ So the basic features of the logging app will incorporate a lot of logarun style
     - private profiles
     - public profiles
   - Logging runs
+    - calender style
     - title of logs plus description of log
     - mileage, distance, shoes
       - set default shoes
