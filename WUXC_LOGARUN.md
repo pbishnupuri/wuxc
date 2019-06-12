@@ -60,7 +60,9 @@ This takes a decent amount of setup to get things running, so it's possible that
 
 (Zac) - Agree with everything here, I think LogARun had some stuff that seemed silly but actually have pretty great qualities (mileage for shoes, showing the entire team at once, public/private profiles, etc...)
 
-So the basic features of the logging app will incorporate a lot of logarun style plus blog style posts. 
+(Nate) - looks dope. Thinking of random things to add (potentially): route ran, be able to link vids/images, tag people in logs that links their profile. With customized workouts, have spot for split times for each rep and display nicely. Add type of run (workout, race, run, etc.) and be able to sort a person's calendar by that type. Profile Pictures! Be able to view an individual by week (aka not having to click everyday to read log). 
+
+So the basic features of the logging app will incorporate a lot of logarun style plus blog style posts.
   - user profiles
     - private profiles
     - public profiles
@@ -73,17 +75,17 @@ So the basic features of the logging app will incorporate a lot of logarun style
       - retire shoes
       - see mileage on shoes
     - customized workouts
-      - ability to create workouts and use by name. 
+      - ability to create workouts and use by name.
       - search by workout
       - workouts should be able to be created by team for individual on team or (lesser idea) by individual for individual.
-        The reason by team for individuals is because the workouts are mainly made by the coach so people can search by workouts and 
+        The reason by team for individuals is because the workouts are mainly made by the coach so people can search by workouts and
         and see their workouts as well as other who did that workout.
-        For example 4-2-2 is a workout name but the workout can be defined by the individual as like 4x(4-2-2) or 3(4-2-2) + 1600s in-outs. This way different variations of the same workouts aren't defined as different workouts. The only issue I see with this is if an individuals use this tool to log without being on a team. 
+        For example 4-2-2 is a workout name but the workout can be defined by the individual as like 4x(4-2-2) or 3(4-2-2) + 1600s in-outs. This way different variations of the same workouts aren't defined as different workouts. The only issue I see with this is if an individuals use this tool to log without being on a team.
         (Zac) I agree this could be difficult with individual loggers, but easier if we had custom workouts
      - ability to comment on runs
   - Creating/Joining a team
     - private teams
-    - public teams (maybe?) 
+    - public teams (maybe?)
     - leaving/kicking from a team
     - transfer of ownership of team
   - ability to add eomjis in log description (Lia's request)
@@ -91,14 +93,10 @@ So the basic features of the logging app will incorporate a lot of logarun style
   - tag user profiles in description and comments, giving notifications to tagged user
     - i don't know how useful this would be, but just throwing ideas out there
     - (Zac) 100% agree this should be included. Even something similar like **@Prat** or something
-    
+
  ## Dumb Features - Place for dumb ideas that aren't important but can be used once a year
   - Export data from user profile of runs and average paces by day.
   - Export data from TEAM of runs and average paces
   - Define less than 5 emojis to classify runs  (can't have too many ways to classify runs)
-  - ability to flag personal run as pain sensitive. Shows up as red on your calender. Easier to find runs where you felt exceptionally bad or something hurt. 
+  - ability to flag personal run as pain sensitive. Shows up as red on your calender. Easier to find runs where you felt exceptionally bad or something hurt.
   - (Zac) Depending on how far we get, could do on-the-fly analysis of pace/sentiment/mileage or whatever
-    
-  
-  
-  
