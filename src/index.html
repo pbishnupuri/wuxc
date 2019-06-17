@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+    <head>
+        <title>WuLogger</title>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <link rel="stylesheet" href="/css/bootstrap.css">
+        <link rel="stylesheet" href="/css/styles.css">
+    </head>
+
+    <body>
+        <!-- THIS AREA IS FOR THE NAVAGATION BAR -->
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">WuLogger</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Calender</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Teams
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Team 1</a>
+                                <a class="dropdown-item" href="#">Team 2</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">My Profile</a>
+                        </li>
+                    </ul>
+
+                    <form class="form-inline">
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon1">@</span>
+                            </div>
+                            <input type="text" class="form-control" placeholder="Username" aria-label="Username"
+                                aria-describedby="basic-addon1">
+                        </div>
+                    </form>
+                </div>
+            </nav>
+        </div>
+
+        <!-- TOP - right under navbar -->
+        <div class="container-fluid">
+            <div class="row justify-content-md-center">
+                <div class="col py-3 px-lg-4">
+                    <div class="card">
+                        <div class="card-header bg-light">
+                            New Features!
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Emojis Now Supported</h5>
+                            <p class="card-text">Feature added to WuLogger to support emojis in daily logs!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Under top row -->
+            <div class="row">
+                <!-- Bigger Column to right -->
+                <div class="col-8 py-2 px-lg-4">Supported neglected met she therefore unwilling discovery remainder. Way
+                    sentiments two indulgence uncommonly own. Diminution to frequently sentiments he connection
+                    continuing indulgence. An my exquisite conveying up defective. Shameless see the tolerably how
+                    continued. She enable men twenty elinor points appear. Whose merry ten yet was men seven ought
+                    balls.</div>
+                <!-- Smaller Column on left -->
+                <div class="col-4 py-2 px-lg-4">
+                    <div class="card">
+                        <!-- Notifications for new logs posted. This will include around 5-6 notifcations 
+                            Also will include profile picture or default one if not provided. The name should be
+                            a link to the team calender. the description should only contain the few 10-15 words 
+                            of the log.
+                         -->
+                        <div class="card-header">
+                            New Logs Posted
+                        </div>
+                        <div class="card-body">
+                            <ul class="list-unstyled">
+                                <li class="media">
+                                    <img src="..." class="mr-3" alt="...">
+                                    <div class="media-body">
+                                        <h5 class="mt-0 mb-1">Brad Hodkinson</h5>
+                                        Ran with noah and david today. i dropped them
+                                    </div>
+                                </li>
+                                <li class="media my-4">
+                                    <img src="..." class="mr-3" alt="...">
+                                    <div class="media-body">
+                                        <h5 class="mt-0 mb-1">David O'Gara</h5>
+                                        Got dropped by brad.
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/popper.min.js"></script>
+        <script src="/js/bootstrap.min.js"></script>
+    </body>
+
+</html>
