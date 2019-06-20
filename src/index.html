@@ -28,7 +28,7 @@
                             <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Calender</a>
+                            <a class="nav-link" href="calender.html">Calender</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -82,50 +82,98 @@
                 <!-- Bigger Column to right -->
                 <div class="col-8 py-2 px-lg-4">
                     <!-- POSTS -->
-                    <div class="card mb-2">
+                    <div class="card mb-4">
                         <div class="card-header">
                             <img src="..." class="mr-4" alt="..."> <span class='h5'>Brad Hodkinson</span>
                         </div>
                         <div class="card-body">
+                            <!-- THIS IS FOR RUN INFO -->
+                            <div class="card border-info mb-3">
+                                <div class="card-body text-info">
+                                    <h5 class="card-title">Activity: Run</h5>
+                                    <p class="card-text">Distance: 100 miles /
+                                        Time: 50:00 /
+                                        Pace: Fast
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- END RUN INFO -->
+                            <!-- START RUN DETAILS -->
                             <div class="media-body">
                                 Ran with noah and david today. i dropped them
-                                We should try and limit the amount of words seen on the post just incase someone posts a 
-                                really long post. I'm looking at you paul. this will allow the page to be a little formatted at least
+                                We should try and limit the amount of words seen on the post just incase someone posts a
+                                really long post. I'm looking at you paul. this will allow the page to be a little
+                                formatted at least
                                 and not premit it to be wacky.
                             </div>
+                            <!-- END RUN DETAILS -->
                         </div>
                     </div>
-                    <div class="card mb-2">
+                    <div class="card mb-4">
                         <div class="card-header">
                             <img src="..." class="mr-4" alt="..."> <span class='h5'>David O'Gara</span>
                         </div>
+                        <!-- RUN INFO -->
                         <div class="card-body">
+                            <div class="card border-info mb-3">
+                                <div class="card-body text-info">
+                                    <h5 class="card-title">Activity: Run</h5>
+                                    <p class="card-text">Distance: 100 miles /
+                                        Time: 50:00 /
+                                        Pace: Fast
+                                    </p>
+                                </div>
+                            </div>
+                            <!-- END RUN INFO -->
+                            <!-- START RUN DETAILS -->
                             <div class="media-body">
                                 lol help brad dropped me
                             </div>
+                            <!-- END RUN DETAILS -->
                         </div>
                     </div>
                     <!-- END POSTS -->
                 </div>
                 <!-- Smaller Column on left -->
-                <div class="col-4 py-2 px-lg-4">
-                    <!-- NOTIFICATIONS -->
-                    <div class="toast float-right" role="alert" aria-live="assertive" aria-atomic="true" data-autohide="false" data-delay=0 data-animation="false">
-                        <div class="toast-header">
-                          <img src="..." class="rounded mr-2" alt="...">
-                          <strong class="mr-auto">Noah Trimark @David</strong>
-                          <small class="text-muted">just now</small>
-                          <!-- THIS IS TO EXIT THE TOAST -->
-                          <!-- <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                          </button> -->
+                <div class="col-4 py-2 pr-lg-4 pl-0">
+                    <!-- QUICK POST -->
+                    <div class="card mb-4">
+                        <div class="card-body">
+                            <h5 class="card-title h3">Quick Log</h5>
+                            <!-- <p class="card-text">With supporting text below as a natural lead-in to additional content.</p> -->
+                            <form>
+                                <div class="form-row mb-2">
+                                    <div class="col">
+                                        <input type="text" class="form-control" placeholder="Day Title">
+                                    </div>
+                                </div>
+                                <div class="form-row mb-2">
+                                    <div class="col">
+                                        <div class="input-group">
+                                            <select class="custom-select" id="inputGroupSelect01">
+                                                <option selected>Run</option>
+                                                <option value="bike">Bike</option>
+                                                <option value="aquajog">Aqua Job</option>
+                                                <option value="swim">Swim</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <input type="text" class="form-control" placeholder="Distance">
+                                    </div>
+                                    <div class="col">
+                                        <input type="time" class="form-control" placeholder="Run Time">
+                                    </div>
+                                </div>
+                                <div class="form-row mb-2 mr-auto ml-auto">
+                                    <textarea class="form-control form-control-lg" type="text" placeholder="Daily Text"
+                                        rows="6"></textarea>
+                                </div>
+                            </form>
+                            <a href="#" class="btn btn-primary float-right">Log</a>
                         </div>
-                        <div class="toast-body">
-                          This will be public noticatons. Commenting on other people's comments? Or this can be private 
-                          notications. People that tag you. I was thinking of making that more of a drop down...
-                        </div>
-                      </div>
-                    <!-- END NOTIFCATIONS -->
+                    </div>
+                    <!-- END QUICK POST -->
                 </div>
             </div>
         </div>
@@ -145,6 +193,6 @@
         <script src="/js/bootstrap.min.js"></script> -->
         <script src="/js/toast.js"></script>
     </body>
-    
+
 
 </html>
