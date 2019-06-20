@@ -1,0 +1,11 @@
+.tableContent {
+    height: 125px;
+}
+.tableContent td{
+    width: 175px;
+}
+
+.font-small {
+    font-size: 12px;
+    margin: 0px 0px 0px 0px;
+}
